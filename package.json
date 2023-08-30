@@ -1,0 +1,17 @@
+{
+  "name": "acortar-url",
+  "version": "1.0.0",
+  "description": "bot para acortar URLs",
+  "main": "index.js",
+  "scripts": { "text": "jest",
+  "start": "index.js"
+  },
+  "author": "Luisa Fernanda Velasquez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "request": "^2.88.2",
+    "shortid": "^2.2.16"
+  }
+}
